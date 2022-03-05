@@ -6,9 +6,9 @@ The plan is to open a surf and ice cream shop business in Oahu however the inves
 ## Results
 <img width="1106" alt="June Temperature Summary Statistics" src="https://user-images.githubusercontent.com/96451672/156900988-e76c0a9e-96ff-44a5-836a-40273de25f57.png">
 <img width="1111" alt="December Temperature Summary Statistics" src="https://user-images.githubusercontent.com/96451672/156900990-12776641-571b-42ba-9fc3-215ac7547eac.png">
-
-
-
+- It can be observed from the data that the average temperature compared between June and December varies little with the average in December being only approximately 4 degrees less than June.
+- It can be noted that there is a larger range in temperature in December compared to June. December has a 27 degree range between its minimum and maximum temperatures while June has a 21 degree range.
+- Lastly, it is important to note that the interquartile range in December is only 5 degrees.
 
 ## Summary
 
