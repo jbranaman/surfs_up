@@ -11,9 +11,15 @@ The plan is to open a surf and ice cream shop business in Oahu however the inves
 
 * It can be noted that there is a larger range in temperature in December compared to June. December has a 27 degree range between its minimum and maximum temperatures while June has a 21 degree range.
 
-* Lastly, it is important to note that the interquartile range in December is only 5 degrees.
+* Lastly, it is important to note that the interquartile range in December is only 5 degrees between 69 & 74 degrees and June is 4 degrees between 73 & 77 degrees.
 
 ## Summary
+The purpose of this analysis is to examine the differences in temperatures in June and December to determine if consistent business can be had in both seasons. To help determine this, the first important part to examine is the average temperature in both months. The average temperature in June is 74.9 degrees and in December it is 71 degrees for a difference of approximately 4 degrees. It can be concluded from this data that the temperatures average relatively the same. However, it is also important analyze the interquartile ranges for June and December to paint an accurate comparison of the overall temperatures to make sure the deviation from the average isn't too much compartively.
+
+It would be easy to assume that with winter months like December being colder that there would be a drastic difference with summer months like June, however the minimum temperatures is not necessarily representative of the temperatures for the entire month. With the interquartile temperature range in December being much lower at than minimum and maximum range, it can be concluded that the temperatures in December and, likewise, June are fairly consistent. Additionally, for December the consistent range being between 69 & 74 degrees is not that far off from the range for June being between 73 & 77 degrees. Thus, it would be fair to say that the consistent temperatures in June and December are fairly similar lowering by only a few degrees in December.
+
+With these conclusions in mind, the minimum and maximum temperatures should also be considered. The minimum in December is much lower at 56 degrees than June at 64 degrees, however the range between the minimum and maximum temperatures in December is higher at 27 degrees than it is in June at 21 degrees. While it is colder in December than June, December reaches a high temperature of 83 degrees not far off from the high temperature in June of 85 degrees.
+After analyzing the data, the overall conclusion can be drawn that while it is colder in December, that is fairly warm and the temperatures are consistently not far off from June.
 
 ### Additional Data Queries for June and December
 Two additional queries were created and run for data in June and December for temperature calculations at the most active station and precipitation summary statistics across all stations. The station query was chosen in order examine the most active area having the greatest number of recordings to test the reliability of the overall data calculations.
