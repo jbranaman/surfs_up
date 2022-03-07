@@ -1,7 +1,7 @@
 # Surfs Up
 ## Overview of Project
 ### Purpose
-The plan is to open a surf and ice cream shop business in Oahu however the investor, W. Avy, is requesting data to determine sustainability of the business. This analysis is designed to provide temperature trends, specifically using temperature data from the months of June and December as well as offer additional data.
+The plan is to open a surf and ice cream shop in Oahu. However, the investor, W. Avy, is requesting data to determine sustainability of the business. This analysis is designed to provide temperature trends, specifically using temperature data from the months of June and December as well as offer additional data.
 
 ## Results
 <img width="1106" alt="June Temperature Summary Statistics" src="https://user-images.githubusercontent.com/96451672/156900988-e76c0a9e-96ff-44a5-836a-40273de25f57.png">
